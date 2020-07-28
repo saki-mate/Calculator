@@ -11,6 +11,7 @@ int main(){
   cout << "Enter y: ";
   cin >> y;
 
+  cout << "This is your calculator : " <<endl;
   cout << "x + y = " << x+y << endl;
   cout << "x - y = " << x-y << endl;
   cout << "x * y = " << x*y << endl;
