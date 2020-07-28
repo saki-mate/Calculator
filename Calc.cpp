@@ -20,5 +20,7 @@ int main(){
   cout << "sin(x) = " << sin(x * M_PI /180.0) << endl;
   cout << "cos(x) = " << cos(x * M_PI /180.0) << endl;
   
+  cout<< "x ^ y = " << pow(x, y) << endl;
+  
 return 0;
 }
